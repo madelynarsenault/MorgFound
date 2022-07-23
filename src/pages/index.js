@@ -47,7 +47,7 @@ const Home = props => {
                   <div className="serviceSummary">
                     <div className="service-content">
                       <h2 className="service-title">
-                        <Link to="/about/">FOR THE GOOD OF OTHERS</Link>
+                        {/* <Link to="/about/">FOR THE GOOD OF OTHERS</Link> */}
                       </h2>
                       <p>{node.excerpt}</p>
                     </div>
